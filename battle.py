@@ -15,7 +15,7 @@ logging.basicConfig(level=logging.INFO)
 BOT_TOKEN = "8449027291:AAFTXNTLqXs3f9JJYZX3KsxffR_2X0L19SY"  # o'zingizniki bilan almashtiring
 CHANNEL_ID = "@auric_stars"  # kanal ID (yoki "@kanalusername")
 BOOST_LINK = "https://t.me/boost/auric_stars"
-ADMIN_IDS = [6510338337]  # admin ID(lar)
+ADMIN_IDS = [6510338337,7399225804]  # admin ID(lar)
 
 # === Bot va DB ===
 bot = Bot(token=BOT_TOKEN)
