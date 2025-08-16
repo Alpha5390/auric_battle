@@ -12,7 +12,7 @@ import logging
 logging.basicConfig(level=logging.INFO)
 
 # ==== Sozlamalar ====
-BOT_TOKEN = "8449027291:AAFTXNTLqXs3f9JJYZX3KsxffR_2X0L19SY"  # o'zingizniki bilan almashtiring
+BOT_TOKEN = "8373707159:AAGNYsoM0Ivh22aT45ZZ7e2e4FFzFPA0HvQ"  # o'zingizniki bilan almashtiring
 CHANNEL_ID = "@auric_stars"  # kanal ID (yoki "@kanalusername")
 BOOST_LINK = "https://t.me/boost/auric_stars"
 ADMIN_IDS = [6510338337,7399225804]  # admin ID(lar)
